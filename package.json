@@ -1,0 +1,17 @@
+{
+  "name": "node-pastie",
+  "description": "Wrapper to create pasties on http://pastie.org",
+  "version": "0.0.1",
+  "author": "Xavier Damman (@xdamman)",
+  "homepage": "http://github.com/xdamman/node-pastie",
+  "engines": {
+    "node": ">= v0.6.0"
+  },
+  "dependencies": {
+    "superagent": "0.4.1"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "node-dev": ""
+  }
+}
